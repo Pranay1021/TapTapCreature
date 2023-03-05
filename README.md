@@ -2,7 +2,7 @@
 A unity Game development project
 
 TapTapCreature
-First Adnroid Unity Game Project
+First Android Unity Game Project
 
 About Game:
   A game similar to flappy bird. You earn points as the time spent increases. Avoid the flames to keep on going.
